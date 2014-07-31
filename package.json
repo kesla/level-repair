@@ -1,0 +1,29 @@
+{
+  "name": "level-repair",
+  "version": "0.0.0",
+  "description": "CLI tool to repair a leveldb-db",
+  "bin": {
+    "level-repair": "level-repair.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "leveldown": "^0.10.2"
+  },
+  "global": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kesla/level-repair.git"
+  },
+  "keywords": [
+    "leveldb"
+  ],
+  "bugs": {
+    "url": "https://github.com/kesla/level-repair/issues"
+  },
+  "homepage": "https://github.com/kesla/level-repair"
+}
