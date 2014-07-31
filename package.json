@@ -1,6 +1,6 @@
 {
   "name": "level-repair",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI tool to repair a leveldb-db",
   "bin": {
     "level-repair": "level-repair.js"
