@@ -11,7 +11,7 @@
   "author": "David Björklund <david.bjorklund@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "leveldown": "^0.10.2"
+    "leveldown": "^1.4"
   },
   "global": true,
   "devDependencies": {},
