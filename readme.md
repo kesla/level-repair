@@ -14,7 +14,7 @@ npm -g install level-repair
 
 ## How-to
 
-Go the the folder with the database, run `level-repair`
+Go to the folder with the database, run `level-repair`
 
 ## Licence
 
